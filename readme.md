@@ -36,3 +36,18 @@ Later I can split them into separate packages if needed.
 1. Compile:
    ```bash
    javac CCRM.java
+
+# 📘 Java Flipped Course  
+
+I have successfully added the **Java course** under my flipped courses.  
+This step will help me:  
+- Strengthen my programming fundamentals  
+- Explore Java concepts in greater depth  
+- Apply knowledge through practical problem-solving  
+
+I kindly request your approval and acceptance of this course.  
+
+---
+
+**NAME:** Dhiransh Jain  
+**REG. NO.:** 24BCE10096  
