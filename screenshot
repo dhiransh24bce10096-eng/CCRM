@@ -1,0 +1,35 @@
+import javax.swing.*;
+import java.awt.*;
+import java.awt.image.BufferedImage;
+import java.io.File;
+import java.io.IOException;
+import javax.imageio.ImageIO;
+
+public class ShowScreenshot {
+    public static void main(String[] args) {
+        // Ask user for screenshot path
+        String screenshotPath = JOptionPane.showInputDialog("C:\Users\Dhiransh Jain\OneDrive\Desktop\screenshot");
+
+        try {
+            // Load the image
+            BufferedImage image = ImageIO.read(new File(screenshotPath));
+
+            if (image == null) {
+                System.out.println("Error: Could not load the screenshot. Check the path.");
+            } else {
+                // Display the image in a JFrame
+                JFrame frame = new JFrame("Your Screenshot");
+                frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+                frame.setSize(image.getWidth(), image.getHeight());
+
+                JLabel label = new JLabel(new ImageIcon(image));
+                frame.add(label);
+
+                frame.pack();
+                frame.setVisible(true);
+            }
+        } catch (IOException e) {
+            System.out.println("Error loading the screenshot: " + e.getMessage());
+        }
+    }
+}
