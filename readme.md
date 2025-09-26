@@ -48,8 +48,12 @@ This step will help me:
 I kindly request your approval and acceptance of this course.  
 
 ---
-![OutputCode 1](screenshots/1.png)
-![Java Version Check](screenshots/2.png)
+![OutputCode 1](screenshots/C:\Users\Dhiransh Jain\OneDrive\Desktop\screenshot\1.png)
+![Java Version Check](screenshots/"C:\Users\Dhiransh Jain\OneDrive\Desktop\screenshot\2.png")
+![Java Version Check](screenshots/"C:\Users\Dhiransh Jain\OneDrive\Desktop\screenshot\2.png")
+![Java Version Check](screenshots/JDK-Installation-successfull.png)
+![Java Version Check](screenshots/JDK-Installation-successfull.png)
+![Java Version Check](screenshots/JDK-Installation-successfull.png)
 
 **NAME:** Dhiransh Jain  
 **REG. NO.:** 24BCE10096  
