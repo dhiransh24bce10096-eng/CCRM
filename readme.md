@@ -48,6 +48,8 @@ This step will help me:
 I kindly request your approval and acceptance of this course.  
 
 ---
+![OutputCode 1](screenshots/1.png)
+![Java Version Check](screenshots/2.png)
 
 **NAME:** Dhiransh Jain  
 **REG. NO.:** 24BCE10096  
